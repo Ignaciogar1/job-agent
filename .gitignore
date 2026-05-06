@@ -1,0 +1,16 @@
+# Credenciales y configuración personal
+user_config.json
+
+# Entorno virtual
+venv/
+
+# Base de datos local
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/

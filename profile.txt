@@ -1,0 +1,14 @@
+Desarrollador RPA con experiencia en automatización end-to-end usando UiPath Studio, StudioX, Orchestrator y REFramework. Power Automate Desktop. Certificado UiPath Automation Developer Professional.
+
+Experiencia en análisis y documentación de procesos (PDD), UAT, despliegue y monitorización en producción con Orchestrator. Desarrollo de actividades custom en VB.NET integradas con UiPath y PAD.
+
+Proyectos destacados: automatización de extracción de datos de cheques e integración con Oracle ERP (write-off automatizado, summary reports). Procesamiento de instrucciones financieras sobre Excel con conversión de divisas usando tasas de cambio diarias.
+
+Conocimientos de Python (scripting, análisis de datos, Jupyter). SQL. Git/GitHub.
+
+Graduado en Física. Perfil analítico, orientado a resolución de problemas técnicos complejos.
+
+En proceso de transición hacia ecosistema IA/GenAI: Python agentic AI, LLMs, embeddings, automatización inteligente. Interés en roles de AI Automation Developer, RPA + AI, Python Developer con componente de automatización o inteligencia artificial.
+
+Idiomas: Español nativo, Inglés B2.
+Ubicación: España (abierto a remoto).
