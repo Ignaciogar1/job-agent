@@ -1,6 +1,6 @@
 # Job Agent 🤖
 
-Monitoriza ofertas en España, las compara con mi perfil usando embeddings semánticos, filtra las que no encajan (senior, lead, director...) y me manda las relevantes directamente al móvil por Telegram. Lo construí también como forma práctica de meterme en agentic AI — nada mejor que aprender construyendo algo que te soluciona un problema real.
+Monitoriza ofertas en España, las compara con mi perfil usando embeddings semánticos, filtra las que no encajan (senior, lead, director...) y me manda las relevantes directamente al móvil por Telegram. Lo construí también como forma práctica de meterme en agentic AI.
 
 ---
 
